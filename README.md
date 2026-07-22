@@ -1,4 +1,4 @@
-# DroidChat 💬
+# DroidChat 💬 WIP
 
 > **⚠️ This project is currently under active development.**
 
